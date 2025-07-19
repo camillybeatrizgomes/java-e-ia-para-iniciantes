@@ -1,0 +1,2 @@
+INDEX VERSION 1.132+C:\Users\Camilly\OneDrive\Documentos\estudos\java-e-ia-para-iniciantes\Fundamentos da Linguagem de Programação Java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
